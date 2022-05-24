@@ -3,3 +3,17 @@
 
 }
 
+#message, #name, #email  {
+    border-color: rgb(122, 122, 122);
+
+}
+
+#Boton02 {
+    border-color: rgb(122, 122, 122);
+    text-decoration: none;
+}
+
+.prueba{
+    border-color: rgb(122, 122, 122);
+    text-decoration: none;
+}
